@@ -1,0 +1,36 @@
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Dataset - do not upload to GitHub
+
+data/*.csv
+data/*.zip
+
+# Environment variables
+
+.env
+
+# Testing/cache
+
+.pytest_cache/
+
+# VS Code
+
+.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db

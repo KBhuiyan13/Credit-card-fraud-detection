@@ -1,0 +1,11 @@
+Metric,Value
+Threshold,0.1
+Precision,0.7115384615384616
+Recall,0.7551020408163265
+F1-Score,0.7326732673267327
+ROC-AUC,0.9536803888691099
+PR-AUC,0.737713280551052
+True Negatives,56834.0
+False Positives,30.0
+False Negatives,24.0
+True Positives,74.0
